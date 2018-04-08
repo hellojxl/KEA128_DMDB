@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+hello WangChao
+>>>>>>> 58d8c7ae0c3dffd81fb864b60f0fbdc261885a5f
